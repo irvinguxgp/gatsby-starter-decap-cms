@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Garantiplus con Netrlify
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Garantiplus con Netrlify
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
